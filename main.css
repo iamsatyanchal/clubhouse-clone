@@ -14,3 +14,10 @@ main {
   border-top-left-radius: 2.5rem;
   border-top-right-radius: 2.5rem;
 }
+
+@media only screen and (max-width: 600px) {
+  .phone-container {
+    width: 100%;
+    height: 100%;
+  }
+}
