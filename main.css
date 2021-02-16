@@ -6,7 +6,11 @@ body {
 }
 
 .phone-container {
-  width: 360px;
+  width: 320px;
   height: 90%;
-  overflow: hidden;
+}
+
+main {
+  border-top-left-radius: 2.5rem;
+  border-top-right-radius: 2.5rem;
 }
